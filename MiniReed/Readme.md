@@ -7,4 +7,6 @@ The module includes a 10 K Ohm resistor, so no additional parts needed.
 * Arduino GND --> Module pin -
 * Arduino +5V --> Module PLUS (middle pin)
 * Arduino Digital pin 3 --> Module S
+
+
 ![Wiring](https://tkkrlab.nl/w/images/thumb/6/65/Ky021.jpg/400px-Ky021.jpg)
